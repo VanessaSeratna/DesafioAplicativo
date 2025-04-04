@@ -18,13 +18,13 @@ Bem-vindo ao LexPublica 🎯, um aplicativo desenvolvido no Microsoft Power Apps
 
 - Acesse a seção de Importação
 
-  - No menu lateral, clique em Soluções ⚙️.
+  - No menu lateral, clique em Aplicativo ⚙️.
 
-  - No canto superior direito, clique em Importar Solução 📤.
+  - No canto superior direito, clique em Importar Aplicativo 📤.
 
 - Carregue o Arquivo ZIP
 
-  - Clique em Procurar Arquivo e selecione o arquivo LexPublica1.zip 📂.
+  - Clique em Procurar Arquivo e selecione o arquivo LexPublica2.zip 📂.
 
   - Aguarde a análise do pacote e clique em Próximo ⏭️.
 
